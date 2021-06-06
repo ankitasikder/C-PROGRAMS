@@ -1,7 +1,16 @@
-/**
- * C program to delete all duplicate elements from array
+/*
+  C program to delete all duplicate elements from array
  */
+/*ALL THESE WORKS ARE DONE BY 
 
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
 #include <stdio.h>
 #define MAX_SIZE 100 
 
