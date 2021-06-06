@@ -2,22 +2,22 @@
 #include<conio.h>
 void main()
 {
-     int a[5][5],i,j,nrow,ncol;
+     int a[5][5],i,j,n;
      printf("Enter the range->");
-     scanf("%d %d",&nrow,&ncol);
-     for(i=0;i<nrow;i++)
+     scanf("%d",&n);
+     for(i=0;i<n;i++)
      {
-            for(j=0;j<ncol;j++)
+            for(j=0;j<n;j++)
             {
                   printf("Enter the number->");
                   scanf("%d",&a[i][j]);
             }
      }
-      for(i=0;i<nrow;i++)
+      for(i=0;i<n;i++)
      {
-            for(j=0;j<ncol;j++)
+            for(j=0;j<n;j++)
             {
-                  printf("The value at position a[%d][%d] is ->%d",i,j,a[i][j]);
+                  printf("The value at position a[%d][%d] is %d->",i,j,a[i][j]);
             }
             printf("\n");
      }
