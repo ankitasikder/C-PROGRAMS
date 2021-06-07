@@ -1,4 +1,14 @@
 //roots of a quadratic equation
+/*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
 #include<Stdio.h>
 #include<math.h>
 void main()
