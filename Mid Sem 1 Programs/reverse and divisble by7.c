@@ -1,4 +1,14 @@
 //numbers print between 10 and 99which after exchange of digits become divisible by 7
+/*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
 #include<Stdio.h>
 #include<conio.h>
 void main()
