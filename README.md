@@ -1,6 +1,6 @@
 #  C PROGRAMS :open_mouth: :sunglasses: :facepunch:
 
-[![Generic badge](https://img.shields.io/badge/intermediate-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/intermediate-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/intermediate-javascript-yellow)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/C-programming-red)](https://shields.io/) 
 
 ***This repository of C PROGRAMS is created by Ankita Sikder, student of BTECH, in University of Engineering and Management, Kolkata.***
 
