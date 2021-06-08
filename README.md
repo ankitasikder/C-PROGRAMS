@@ -8,7 +8,11 @@
 
 ***Contact No: 8583939774.***
 
-[![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/ankita.sikder.104) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/ankitasikder) [![Generic badge](https://img.shields.io/badge/Contact%20me-Instagram-ff69b4)](https://www.instagram.com/ankita.sikder14)
+<p align="left">
+<a href="https://www.facebook.com/ankita.sikder.104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="biswa2210" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ankita.sikder14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://github.com/ankitasikder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
+</p>
 
 ## About :point_down:
 
