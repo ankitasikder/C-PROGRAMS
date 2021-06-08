@@ -2,7 +2,7 @@
 
 [![Generic badge](https://img.shields.io/badge/intermediate-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/intermediate-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/intermediate-javascript-yellow)](https://shields.io/)
 
-***This new Web application is created by Ankita Sikder, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This repository of C PROGRAMS is created by Ankita Sikder, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 ***Email Id: ankita.sikder14@gmail.com.***
 
