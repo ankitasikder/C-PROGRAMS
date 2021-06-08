@@ -8,7 +8,7 @@
 
 ***Contact No: 8583939774.***
 
-[![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/biswarup.bhattacharjee.5811) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/biswa2210)
+[![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/ankita.sikder.104) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/ankitasikder) [![Generic badge]()](https://www.instagram.com/ankita.sikder14)
 
 ## About :point_down:
 
