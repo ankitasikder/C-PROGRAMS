@@ -14,6 +14,8 @@
 
 <div align="justified">
 
+In this repository I have added all my C programs devided on specific folders according to their topics or implementation. 
+
 </div>
 
 
@@ -21,31 +23,20 @@
 
 <div align="justified">
 
-
-</div>
-
-
-## Importance :point_down:
-
-<div align="justified">
-     
+I have done these programs for practice C programs and implement specific logics for different problem solving related to our works.
 
 </div>
 
 ## Folder Structure :point_down:
 ```bash
-BASIC-AVENGERS
+C-PROGRAMS
      ├── heros
      |     └── All html, css, js files of heros(96 files)
      ├── villains
      |     └── All html, css, js files of villains(35 files)
      ├── images
      |     └── All images in each character's folder
-     ├── marvel.html
-     ├── marvel.css
-     ├── index.html
-     ├── index.css
-     └── images of 82 characters and background image
+
 ```
 # Making :point_down:
 
