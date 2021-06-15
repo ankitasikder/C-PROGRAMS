@@ -1,7 +1,3 @@
-#  C PROGRAMS :open_mouth: :sunglasses: :facepunch:
-
-[![Generic badge](https://img.shields.io/badge/C-programming-red)](https://shields.io/) 
-
 ***This repository of C PROGRAMS is created by Ankita Sikder, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 ***Email Id: ankita.sikder14@gmail.com.***
@@ -14,24 +10,16 @@
 <a href="https://github.com/ankitasikder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
 </p>
 
-## About :point_down:
+#  C PROGRAMS :open_mouth: 
 
-<div align="justified">
+[![Generic badge](https://img.shields.io/badge/C-programming-red)](https://shields.io/) 
 
-In this repository I have added all my C programs devided on specific folders according to their topics or implementation. 
+## About This Repository :point_down:
 
-</div>
-
-
-## Purpose :point_down:
-
-<div align="justified">
-
-I have done these programs for practice C programs and implement specific logics for different problem solving related to our works.
-
-</div>
-
+In this repository I have added all my C programs devided on specific folders according to their topics or implementation. I have done these programs for practice C programs and implement specific logics for different problem solving related to our works. I have used C proramming language for all these programs. I have implemented the programs with specific logics, ideas and designs.
+ 
 ## Folder Structure :point_down:
+
 ```bash
 C-PROGRAMS
      ├── 2D ARRAYS
@@ -68,12 +56,6 @@ C-PROGRAMS
            └── 2 programs using structures
      
 ```
-# Making :point_down:
 
-<div align="justified">
-
-I have used C proramming language for all these programs. I have implemented the programs with specific logics, ideas and designs.
-
-</div>
      
 
