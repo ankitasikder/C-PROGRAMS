@@ -12,12 +12,12 @@ EMAIL ID: ankita.sikder14@gmail.com
 #include<conio.h>
 void main()
 {
-   int i,n;
+   int n;
    printf("Enter the no.");
    scanf("%d",&n);
-   if(i%2!=0)
+   if(n%2!=0)
    printf("%d",i);
    else
-   printf(" ");
+   printf("Not Odd");
 getch();
 }
