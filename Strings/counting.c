@@ -34,7 +34,7 @@ void main()
     printf("char-->%d",cc);
       for(i=0;i!='\0';i++)
     {
-         if(a[i]==' ')
+         if(a[i]=='\n')
          lc=lc++;
     
     }
