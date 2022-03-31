@@ -18,7 +18,7 @@ void main()
      printf("Enter the string->");
      gets(x);
      len=strlen(x);
-     for(i=0,j=len-1;i<j;i++,j--)
+     for(i=0,j=len-1;i<=j;i++,j--)
      {
             if(x[i]==x[j])
             {
