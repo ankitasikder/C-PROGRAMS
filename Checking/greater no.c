@@ -21,7 +21,7 @@ void main()
      else if(a==b)
      printf("both equal");
      else
-     printf("2 nd no. is greater",b);
+     printf("2 nd no. %d is greater",b);
      
      getch();
 }
