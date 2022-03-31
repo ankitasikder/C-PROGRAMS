@@ -16,7 +16,7 @@ void main()
      char x[10];
      int len,i;
      printf("Enter your name->");
-     gets(x);
+     gets(x);//scanf("%s",x);
      len=strlen(x);
      if(x[0]>=97 && x[0]<=122)
      printf("%c",x[0]-32);
