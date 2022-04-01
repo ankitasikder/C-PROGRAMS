@@ -13,9 +13,10 @@ EMAIL ID: ankita.sikder14@gmail.com
 #include<conio.h>
 void main()
 {
-     int s=0,n,rem=0,s1=0;
+     int s=0,n,rem=0,s1=0,d;
      printf("Enter the no.-->");
      scanf("%d",&n);
+     d= n;
      while(n!=0)
      {
         rem=n%10;
@@ -28,7 +29,7 @@ void main()
        s1=s1+rem;
        s=s/10;
      }
-     if(s1==1)
+     if(s * s1 == d)
      printf("magic no.");
      else
      printf("not magic no.");
