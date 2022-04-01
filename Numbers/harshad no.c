@@ -19,9 +19,8 @@ void main()
      {
         rem=n%10;
         s=s+rem;
-        c++;
      }
-     if(s==c++)
+     if(n%s==0)
      printf("harshad no.");
      else
      printf("not harshad no.");
