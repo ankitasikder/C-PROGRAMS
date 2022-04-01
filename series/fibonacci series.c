@@ -17,12 +17,15 @@ void main()
      printf("Enter the no."); 
      scanf("%d",&n);
      printf("%d %d",a,b);
-     for(i=1;i<=n;i++)
+     c=a+b;
+     printf("%d",c);
+     for(i=3;i<=n;i++)
      {
-         c=a+b;
+         
          printf(" %d ",c);
          a=b;
          b=c;
+         c=a+b;
      }
      getch();
 }
